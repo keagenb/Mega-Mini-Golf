@@ -1,9 +1,9 @@
 # MegaMiniGolf
 
-A classic game of Mini-Golf made in Unreal Engine 4. UI and Blueprints done by Keagen, Programming and 3D Modeling done by Bobby.
+A classic game of Mini-Golf made in Unreal Engine 4. Created by Bobby Templin and Keagen Brendle for an Advanced Data Structures course at Washington State University in Pullman, Washington.
 
 # Build
-Since the build size is too large I had to upload it to my Google Drive.
+The build size is quite large, and so has been uploaded to a shared Google Doc.
 Download: https://drive.google.com/file/d/1CptOebKYIhV6_Iz52b0WC3MTyHfdI-Kg/
 
 # Screenshots
